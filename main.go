@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Nishantbhagat57/jaeles/cmd"
+import "github.com/jaeles-project/jaeles/cmd"
 
 func main() {
 	cmd.Execute()
