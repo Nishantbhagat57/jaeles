@@ -39,4 +39,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
-replace github.com/jaeles-project/jaeles => github.com/Nishantbhagat57/jaeles
+replace github.com/jaeles-project/jaeles latest => github.com/Nishantbhagat57/jaeles latest
