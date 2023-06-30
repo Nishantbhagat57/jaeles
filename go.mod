@@ -1,4 +1,4 @@
-module github.com/jaeles-project/jaeles
+module github.com/Nishantbhagat57/jaeles
 
 go 1.16
 
